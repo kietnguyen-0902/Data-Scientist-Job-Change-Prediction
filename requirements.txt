@@ -1,0 +1,22 @@
+# Data Manipulation & Computation
+pandas
+numpy
+scipy
+
+# Machine Learning & Preprocessing
+scikit-learn
+
+# Gradient Boosting Models
+xgboost
+lightgbm
+
+# Data Visualization
+matplotlib
+seaborn
+
+# Model Saving/Loading
+joblib
+
+# Jupyter Notebook Environment (Tùy chọn nếu muốn chạy file .ipynb)
+jupyter
+ipykernel
