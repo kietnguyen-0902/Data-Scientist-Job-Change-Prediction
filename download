@@ -1,0 +1,9 @@
+# Bỏ qua môi trường ảo của Python (Backend)
+**/venv/
+__pycache__/
+
+# Bỏ qua thư viện của Node.js (Frontend)
+**/node_modules/
+
+# Bỏ qua các file biến môi trường bảo mật
+.env
